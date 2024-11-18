@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kerim Tasci</h1>
 <h3 align="center">A passionate frontend developer from Munich Germany</h3>
 
-- 🔭 I’m currently working on [a member management tool](https://github.com/S-KerimTasci/member-management-tool)
 
 - 🌱 I’m currently learning **Tailwind CSS**
 

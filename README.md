@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kerim Tasci</h1>
 <h3 align="center">A passionate frontend developer from Munich Germany</h3>
 
-
+- 🔭 I’m currently working on [an association-management tool](https://github.com/halilbahar/association-management)
+  
 - 🌱 I’m currently learning **Tailwind CSS**
 
 - 👨‍💻 Some of my projects are available at [https://kerim-tasci.de](https://kerim-tasci.de)
